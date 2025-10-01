@@ -10,20 +10,14 @@ This theme includes a stash of plutonium-infused wallpapers to keep your desktop
 
 ![Wallpaper Preview](./wallpaper-preview.png)
 
-## Setting your Omarchy theme to DeLorean
-
-1. Press `SUPER + ALT + SPACE`
-2. Click `Style`
-3. Click `Theme`
-4. Select `DeLorean`
-
 #### Install with GUI:
 
-1. Copy `https://github.com/jbnunn/omarchy-delorean-theme`
+1. Copy `https://github.com/jbnunn/omarchy-delorean-theme` to your clipboard
 2. Press `SUPER + ALT + SPACE`
-3. Click `Install`
-4. Click `Theme`
-5. Paste the link 
+3. Select `Install`
+4. Select `Style`
+5. Select `Theme`
+6. Paste the link 
 
 #### Install with Bash:
 
