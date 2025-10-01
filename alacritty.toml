@@ -1,0 +1,42 @@
+[colors]
+[colors.primary]
+background = "#0d0221"   # Terminal background
+foreground = "#f9f9f9"   # Default text color
+
+[colors.cursor]
+cursor = "#ff2a6d"       # Cursor block/beam/underline
+text = "#0d0221"         # Text under the cursor
+
+[colors.selection]
+background = "#d94784"   # Highlighted text background
+text = "#0d0221"         # Highlighted text foreground
+
+[colors.normal]
+black   = "#0d0221"   # ANSI black (rarely visible, matches background)
+red     = "#ff2a6d"   # Error messages, git deletions
+green   = "#05ffa1"   # Success output, shell prompts, git additions
+yellow  = "#fffb96"   # Warnings, modified files
+blue    = "#01cdfe"   # Directories, info messages, keywords
+magenta = "#b967ff"   # Special highlights, secondary accents
+cyan    = "#05ffa1"   # System info, URLs, file metadata
+white   = "#f9f9f9"   # Standard output text
+
+[colors.bright]
+black   = "#4c1a57"   # Comments, dimmed text
+red     = "#ff6bcb"   # Bright errors, important alerts
+green   = "#2dffb4"   # Emphasized success, active prompts
+yellow  = "#fff5b8"   # Attention warnings
+blue    = "#52e5ff"   # Emphasized info, active directories
+magenta = "#d291ff"   # Bright highlights, special markers
+cyan    = "#52fff7"   # Emphasized metadata, links
+white   = "#ffffff"   # Bold/bright text output
+
+[colors.search]
+matches.background = "#ff6bcb"         # All search result highlights
+matches.foreground = "#0d0221"         # Text on search highlights
+focused_match.background = "#fffb96"   # Currently selected search result
+focused_match.foreground = "#0d0221"   # Text on active search result
+
+[colors.vi_mode_cursor]
+cursor = "#b967ff"      # Cursor when in vi normal/visual mode
+text = "#0d0221"        # Text under vi mode cursor
