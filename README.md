@@ -4,6 +4,12 @@ Great Scott! This theme sends Omarchy hurtling through time with neon-soaked 198
 
 ![DeLorean Theme](preview.png)
 
+## Wallpapers
+
+This theme includes a stash of plutonium-infused wallpapers to keep your desktop glowing hotter than a DeLorean reactor.
+
+![Wallpaper Preview](./wallpaper-preview.png)
+
 ## Setting your Omarchy theme to DeLorean
 
 1. Press `SUPER + ALT + SPACE`
@@ -24,12 +30,6 @@ Great Scott! This theme sends Omarchy hurtling through time with neon-soaked 198
 ```bash
 omarchy-theme-install https://github.com/jbnunn/omarchy-delorean-theme.git
 ```
-## Wallpapers
-
-This theme includes a stash of plutonium-infused wallpapers to keep your desktop glowing hotter than a DeLorean reactor.
-
-![Wallpaper Preview](./wallpaper-preview.png)
-
 ## License
 
 This project is licensed under the [MIT](LICENSE) license.
